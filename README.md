@@ -5,15 +5,17 @@
 
 - 👨‍💻 All of my projects are available at [https://yash122005.github.io/Portfolio-/](https://yash122005.github.io/Portfolio-/)
 
+- 💬 college **I am 1st year undergrad Birla Institute of Technology ,Mesra ,Ranchi**
+
 - 📫 How to reach me **yashvinodgupta6@gmail.com**
 
 - 📄 Know about my experiences [robolution (embedded subteam) Member](robolution (embedded subteam) Member)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gupta-8a8594283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta-8a8594283/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/yash_gupta1206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yash_gupta1206/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/yashvinofjd0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/yashvinofjd0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-gupta-8a8594283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash gupta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yash_gupta1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_gupta1206" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/yashvinofjd0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<yash gupta>/yashvinofjd0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
