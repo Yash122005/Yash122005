@@ -1,5 +1,8 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coading" width="250" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - 🌱 I’m currently learning **full stack web devolopment from dr.Angela yu**
 
