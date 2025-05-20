@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack web devolopment from dr.Angela yu**
 
-- 👨‍💻 All of my projects are available at [https://yash122005.github.io/Portfolio-/](https://yash122005.github.io/Portfolio-/)
+- 👨‍💻 All of my projects are available at [https://yash122005.github.io/Portfolio-/]([https://yash122005.github.io/Portfolio-/](https://yash122005.github.io/YashGupta/))
 
 - 💬 college **I am 1st year undergrad Birla Institute of Technology ,Mesra ,Ranchi**
 
