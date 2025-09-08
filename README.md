@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full stack web development from dr.Angela Yu**
 
-- 👨‍💻 All of my projects are available at <a href="yash12.vercel.app" target="blank"> portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://yash12.vercel.app/" target="blank"> portfolio </a>
 
 - 💬 college **I am 1st year undergrad at Birla Institute of Technology, Mesra, Ranchi**
 
