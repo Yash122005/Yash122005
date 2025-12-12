@@ -42,12 +42,14 @@
 
 ### 🔧 Programming / Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,arduino,postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Cursor-AI%20Editor-5A45FF?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 ### 🎨 Design  
 <p>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -117,4 +119,3 @@
 <p align="center">
   <img src="https://media.tenor.com/1n2-l7sRKloAAAAi/hand-wave.gif" width="60">
 </p>
-
