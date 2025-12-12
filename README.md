@@ -1,45 +1,120 @@
-<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coading" width="250" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Yash+Gupta!;ECE'28+Student+at+BIT+Mesra;MERN+Stack+Developer;Embedded+Systems+Enthusiast;UI%2FUX+Designer;Welcome+To+My+GitHub+Profile!" />
+</p>
 
-- 🌱 I’m currently learning **full stack web development from dr.Angela Yu**
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</p>
 
-- 👨‍💻 All of my projects are available at <a href="https://yash12.vercel.app/" target="blank"> portfolio </a>
+<h2 align="center">🚀 About Me</h2>
 
-- 💬 college **I am 1st year undergrad at Birla Institute of Technology, Mesra, Ranchi**
+- 🎓 **B.Tech ECE @ BIT Mesra (2024–2028)**  
+- 💻 MERN Stack Developer & Robotics Enthusiast  
+- ⚙️ Embedded Systems (ESP32, Arduino, C/C++)  
+- 🎨 UI/UX Designer (Figma + Animations)  
+- 🤖 Member of **Robolution**, Robotics Club BIT Mesra  
+- 📚 CGPA: **8.25**  
+- ⚡ Fun Fact: I love combining **hardware + software** and creating magic 🚀  
 
-- 📫 How to reach me **yashvinodgupta6@gmail.com**
+---
 
-- 📄 Know about my experiences [robolution (embedded subteam) Member](robolution (embedded subteam) Member)
-
-<h3 align="left">Connect with me:</h3>
+## 🏆 Achievements  
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-gupta-8a8594283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash_gupta1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_gupta1206" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/yashvinofjd0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<yash gupta>/yashvinofjd0" height="30" width="40" /></a>
+  <img src="https://emoji.gg/assets/emoji/8605-partypopper.gif" width="22px" /> 
+  <b>2nd Runner-Up</b> — Ad-Venture (EDC BIT Mesra, E-Summit)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer">
-<img href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/jquery" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a>
-</a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a> 
-</a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/github" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-</a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/gsap" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" alt="gsap" width="40" height="40"/> </a> 
-</a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
-</a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> </a> 
-</a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/tailwindcss" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="jquery" width="40" height="40"/> </a> 
-</a> 
-<img href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
+---
+
+## 🛠 Tech Stack (Animated)
+
+### 🚀 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash122005&show_icons=true&text_color=f50000&locale=en&layout=compact" alt="yash122005" /></p>
+### ⚡ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
+
+### 🔧 Programming / Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,arduino&theme=dark" />
+</p>
+
+### 🎨 Design  
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</p>
+
+---
+
+## 🔥 Featured Projects  
+### 🌐 Value Education Cell Website  
+✔ Fully responsive UI  
+✔ Animations + modern interactions  
+🔗 **Live:** https://yash12.vercel.app  
+
+---
+
+### 👤 User-Management App  
+✔ CRUD operations  
+✔ Node.js backend  
+✔ EJS templating  
+
+---
+
+### 📁 Text File Manager  
+✔ Edit / Create / Delete text files  
+✔ Express.js backend  
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash122005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash122005&layout=compact&theme=tokyonight"/>
+</p>
+
+<!-- Contribution graph snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yash_Gupta1206?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-gupta-8a8594283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/yash122005">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/Yash_Gupta1206/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/yashvinodgupta8/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+<h2 align="center">✨ Thanks for Visiting! ✨</h2>
+
+<p align="center">
+  <img src="https://media.tenor.com/1n2-l7sRKloAAAAi/hand-wave.gif" width="60">
+</p>
+
