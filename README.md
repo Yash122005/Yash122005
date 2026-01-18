@@ -32,17 +32,17 @@
 
 ### 🚀 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript,redux&theme=dark" />
 </p>
 
 ### ⚡ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
 </p>
 
 ### 🔧 Programming / Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,arduino,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,arduino,postman,nextjs&theme=dark" />
   <img src="https://img.shields.io/badge/Cursor-AI%20Editor-5A45FF?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
