@@ -20,10 +20,34 @@
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements & GitHub Badges  
+
 <p align="left">
   <img src="https://emoji.gg/assets/emoji/8605-partypopper.gif" width="22px" /> 
   <b>2nd Runner-Up</b> — Ad-Venture (EDC BIT Mesra, E-Summit)
+</p>
+
+### 🦈 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" />
+</p>
+
+<p align="center">
+  🦈 <b>Pull Shark</b> &nbsp; | &nbsp; 🤠 <b>Quickdraw</b>
+</p>
+
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=yash122005&theme=onedark&no-frame=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -55,6 +79,7 @@
 ---
 
 ## 🔥 Featured Projects  
+
 ### 🌐 Value Education Cell Website  
 ✔ Fully responsive UI  
 ✔ Animations + modern interactions  
