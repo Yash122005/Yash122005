@@ -80,6 +80,11 @@
 
 ## 🔥 Featured Projects  
 
+### 📁 HIRE-POINT 
+✔ A Dynamic Job Portal Web Application connecting employers with potential candidates seamlessly.  
+✔ React Supabase Clerk TailwindCSS
+
+
 ### 🌐 Value Education Cell Website  
 ✔ Fully responsive UI  
 ✔ Animations + modern interactions  
@@ -91,12 +96,6 @@
 ✔ CRUD operations  
 ✔ Node.js backend  
 ✔ EJS templating  
-
----
-
-### 📁 Text File Manager  
-✔ Edit / Create / Delete text files  
-✔ Express.js backend  
 
 ---
 
