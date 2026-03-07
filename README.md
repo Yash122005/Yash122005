@@ -68,6 +68,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,arduino,postman,nextjs&theme=dark" />
   <img src="https://img.shields.io/badge/Cursor-AI%20Editor-5A45FF?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageKit-CD5C5C?style=for-the-badge&logo=imagekit&logoColor=white" />
 </p>
 
 ### 🎨 Design  
