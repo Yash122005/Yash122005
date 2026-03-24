@@ -22,10 +22,9 @@
 
 ## 🏆 Achievements & GitHub Badges  
 
-<p align="left">
-  <img src="https://emoji.gg/assets/emoji/8605-partypopper.gif" width="22px" /> 
-  <b>2nd Runner-Up</b> — Ad-Venture (EDC BIT Mesra, E-Summit)
-</p>
+- 🎉 **2nd Runner-Up** — Ad-Venture (EDC BIT Mesra, E-Summit)  
+- 🥇 **Winner — SDS Hackathon (Hack & Forge)**  
+  *Secured 1st Position*
 
 ### 🦈 GitHub Achievements
 
