@@ -14,7 +14,6 @@
 - 💻 MERN Stack Developer & Robotics Enthusiast  
 - ⚙️ Embedded Systems (ESP32, Arduino, C/C++)  
 - 🎨 UI/UX Designer (Figma + Animations)  
-- 🤖 Member of **Robolution**, Robotics Club BIT Mesra  
 - 📚 CGPA: **8.25**  
 - ⚡ Fun Fact: I love combining **hardware + software** and creating magic 🚀  
 
